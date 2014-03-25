@@ -1,0 +1,16 @@
+.btn-naked{
+	background: none;
+	border:none;
+}
+.not-favourited{
+	color: black;
+}
+.not-favourited:hover{
+	color: red;
+}
+.favourited{
+	color:red;
+}
+.favourited:hover{
+	color:black;
+}
